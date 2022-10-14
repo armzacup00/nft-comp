@@ -1,0 +1,36 @@
+*{
+    color: hsl(215, 23%, 52%);
+    font-family: 'Outfit', sans-serif;
+}
+.maincolor{
+    background-color: hsl(217, 54%, 11%);
+}
+.wnh{
+    width: 22rem;
+    height: auto;
+    background-color: hsl(216, 50%, 16%)
+}
+.a{
+    text-decoration: none; 
+    list-style: none;
+    color: hsl(0, 0%, 100%);
+}
+.excolor{
+    color: hsl(178, 100%, 50%);
+}
+.a:hover{
+    color: hsl(178, 100%, 50%);
+}
+.imghover:hover{
+    opacity: 0.3;
+}
+.bgcolor{
+    
+    overflow: hidden;
+}
+.bgcolor:hover{
+    background-color: hsl(178, 100%, 50%);
+    background-image: url(icon-view.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
